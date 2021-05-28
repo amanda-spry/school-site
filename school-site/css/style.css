@@ -79,40 +79,56 @@ header, footer {
 
 /* Imported Typfaces */
 
-
+@font-face {}
+@font-face {}
 
 
 
 /* Typography Styles */
+html {}
 
+h1 {}
 
+h2 {}
 
+h2 * p {}
 
+p{}
 
+li{}
+
+figcaption{}
 
 /* Link Styling */
 
+a {}
+
+a:link,
+a:visited {}
 
 
-
-
+a:focus,
+a: hover {}
 
 /* List Styling */
 
+ul {}
 
+ol {}
 
-
+.long-list a:hoover {}
 
 
 /* Navigation Menu */
 
+nav {}
 
+nav a {}
 
-
-
+nav a:active {}
 
 /* Footer Styles */
-
+footer {}
 
 
 
